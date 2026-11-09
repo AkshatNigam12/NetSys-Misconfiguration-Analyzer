@@ -1,4 +1,4 @@
-# Analyzer2
+# NetSys Misconfiguration Analyzer
 
 A cross-platform **Network & System Misconfiguration Scanner** that detects security issues and compares your configuration against **CIS Benchmarks** and **NIST Guidelines**.
 
